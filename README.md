@@ -134,6 +134,5 @@ This example demonstrates that the GEval metric returned a numeric score (0.8) a
 
 If you have a screenshot of the test run (like the one shown in the project attachments), place it at `assets/test_run.png` and it will be displayed here automatically.
 
-![Test run screenshot](assets/test_run.png)
+![Test run screenshot](assets/test_result.JPG)
 
-If `assets/test_run.png` is not present, a placeholder image `assets/test_run_placeholder.svg` has been added instead. Replace the `test_run.png` file with your actual screenshot to display it inline in the README.
