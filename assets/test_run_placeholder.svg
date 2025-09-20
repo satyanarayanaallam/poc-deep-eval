@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="100%" height="100%" fill="#111827"/>
+  <rect x="12" y="12" width="876" height="276" fill="#0b1220" stroke="#374151" stroke-width="2" rx="6"/>
+  <text x="30" y="60" fill="#f97316" font-family="Arial, Helvetica, sans-serif" font-size="20">Sample test run screenshot</text>
+  <text x="30" y="94" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="13">This is a placeholder image added by the README.</text>
+  <text x="30" y="124" fill="#9ca3af" font-family="Arial, Helvetica, sans-serif" font-size="12">Replace this file with your actual screenshot file named</text>
+  <text x="30" y="144" fill="#9ca3af" font-family="Courier New, monospace" font-size="12">assets/test_run.png</text>
+  <rect x="28" y="164" width="844" height="100" rx="4" fill="#071024" stroke="#1f2937"/>
+  <text x="40" y="188" fill="#d1d5db" font-family="Arial, Helvetica, sans-serif" font-size="12">When you replace the placeholder with the real image, the README will show the exact screenshot you provided.</text>
+</svg>
